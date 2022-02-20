@@ -1,2 +1,4 @@
 # cpubingo
-Bingo para CAntando Por Un Bulto
+Bingo para Cantando Por Un Bulto
+#CPUB14
+Logo @darkgatomonx (robado sin permiso)
