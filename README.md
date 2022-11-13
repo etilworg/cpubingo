@@ -1,7 +1,7 @@
 # cpubingo
 Bingo para Cantando Por Un Bulto
 
-#CPUB14
+#CPUBXV
 Logo 
 https://twitter.com/cpubulto/status/1590958607079985152
 
