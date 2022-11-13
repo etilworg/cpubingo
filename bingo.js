@@ -58,7 +58,8 @@ var opciones = [
 "Mas de 20 entries",
 "Exactamente 11 minutos",
 "Menos de 1 minuto",
-"Tiempo De Vals"
+"Tiempo De Vals",
+"Sexy Chambelan"
 ];
 
 
