@@ -41,6 +41,7 @@ var opciones = [
 "Animu in English",
 "Banda",
 "Tokusatsu",
+"Roboces",
 "Idols",
 "Opera",
 "Rap",
@@ -50,12 +51,14 @@ var opciones = [
 "Joche con memes",
 "Ganganm Style",
 "Pog Champ",
+"Arjoneando",
 "Evangelion",
 "Pausa para el baño",
 "Mas de 10 entries",
 "Mas de 20 entries",
 "Exactamente 11 minutos",
 "Menos de 1 minuto"
+"Tiempo De Vals"
 ];
 
 
@@ -78,7 +81,7 @@ for ( let row = 0; row < 5; row ++){
 
         if ( row == 2 && cell ==2){
             //FreeCELL
-            celda.innerHTML = "#CPUB14<BR>FREE" ;
+            celda.innerHTML = "#CPUBXV<BR>FREE" ;
             celda.setAttribute("class", "central");
             continue;
         }
