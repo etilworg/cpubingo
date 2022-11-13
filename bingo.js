@@ -57,7 +57,7 @@ var opciones = [
 "Mas de 10 entries",
 "Mas de 20 entries",
 "Exactamente 11 minutos",
-"Menos de 1 minuto"
+"Menos de 1 minuto",
 "Tiempo De Vals"
 ];
 
